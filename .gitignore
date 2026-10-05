@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.env
+*.db
+ml/saved/
+
+# Node
+node_modules/
+dist/
+.env.local
+
+# IDE
+.vscode/settings.json
+.idea/
+*.DS_Store
